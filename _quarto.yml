@@ -2,20 +2,27 @@ project:
   type: book
 
 book:
-  title: "BioinfoRoadmap"
-  author: "Norah Jones"
-  date: "29/10/2024"
+  title: "Bioinfo Roadmap {{< fa computer>}}"
+  author: "Marcel Ferreria"
+  page-footer:
+    border: true
+    left: "Marcel Ferreira \\@marceelrf"
+  date: today
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: bioinfobasis_part.qmd
+    - part: linuxfoundations_part.qmd
+    - part: "R programming basis"
+      chapters:
+      - rpart01.qmd
+    - part: pythonbasis_part.qmd
     - references.qmd
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: journal
   pdf:
     documentclass: scrreprt
 

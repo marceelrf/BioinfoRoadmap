@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bioinfo Roadmap ",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "bioinfobasis_part.html",
+    "href": "bioinfobasis_part.html",
+    "title": "Bioinformatics basis ",
+    "section": "",
+    "text": "This section is under construction",
+    "crumbs": [
+      "Bioinformatics basis <i class=\"fa-solid fa-person-digging\"></i>"
+    ]
+  },
+  {
+    "objectID": "linuxfoundations_part.html",
+    "href": "linuxfoundations_part.html",
+    "title": "Linux foundations ",
+    "section": "",
+    "text": "This section is under construction",
+    "crumbs": [
+      "Linux foundations <i class=\"fa-solid fa-person-digging\"></i>"
+    ]
+  },
+  {
+    "objectID": "pythonbasis_part.html",
+    "href": "pythonbasis_part.html",
+    "title": "Python basis ",
+    "section": "",
+    "text": "This section is under construction",
+    "crumbs": [
+      "Python basis <i class=\"fa-solid fa-person-digging\"></i>"
+    ]
+  }
+]

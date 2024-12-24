@@ -21,10 +21,10 @@ book:
 bibliography: references.bib
 
 format:
-  html:
-    theme: journal
+  live-html:
+    theme: cosmo
   pdf:
     documentclass: scrreprt
 
 editor: visual
-
+engine: knitr

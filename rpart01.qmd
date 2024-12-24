@@ -1,3 +1,25 @@
 ---
 title: "R part 01"
+format: html-live
+engine: knitr
 ---
+
+{{< include ./_extensions/r-wasm/live/_knitr.qmd >}}
+
+Exemplo de exercício:
+
+```{webr}
+#| setup: true
+#| exercise: ex_2
+foo <- 1
+bar <- 2
+baz <- 3
+```
+
+```{webr}
+#| exercise: ex_2
+foo + bar + baz + ______
+```
+
+
+# Vrau

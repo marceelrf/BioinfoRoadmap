@@ -68,5 +68,16 @@
     "crumbs": [
       "Python basis <i class=\"fa-solid fa-person-digging\"></i>"
     ]
+  },
+  {
+    "objectID": "rpart01.html",
+    "href": "rpart01.html",
+    "title": "1  R part 01",
+    "section": "",
+    "text": "Exemplo de exercício:",
+    "crumbs": [
+      "R programming basis",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>R part 01</span>"
+    ]
   }
 ]
